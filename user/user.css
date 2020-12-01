@@ -1,0 +1,10 @@
+.Error {color: #FF0000;font-style:italic;} .alert{background-color:#ffc107;} option{background-color: gold;}
+
+#user_booking
+{
+    background-color: yellow;
+    width:400px;
+    margin-top:200px;
+    margin-left: 560px;
+    border: 1px solid black;
+}

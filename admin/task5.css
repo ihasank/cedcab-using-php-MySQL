@@ -1,0 +1,21 @@
+#container
+{
+    height: 430px;
+    width:400px;
+    margin-left: 50px;
+}
+
+label{
+    color: red;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+#img
+{
+    height: 400px;
+    width: 500px;
+    background-image: url('taxi.jpg');
+    margin-top: -417px;
+    margin-right: 134px;
+}
